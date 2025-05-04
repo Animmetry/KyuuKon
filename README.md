@@ -1,3 +1,3 @@
 # KyuuKun
-Wiki and Files designed for KyuuKun Diffsinger
+Wiki and Files designed for KyuuKun Diffsinger \n
 If You want to got on correct webised: https://animmetry.github.io/KyuuKun/
